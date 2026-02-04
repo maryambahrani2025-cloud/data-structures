@@ -1,0 +1,3 @@
+def Del-all(self):
+while self.head:
+self.Del-First()

@@ -1,0 +1,11 @@
+def ins_last(self,x):
+    if self.head is None:
+        self.ins_first(x)
+        Return
+        c=self.head
+        whilec.next:
+        c=c.next
+    a=d node(x)
+    c.next=a
+    a.back=c
+    

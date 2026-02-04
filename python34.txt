@@ -1,0 +1,13 @@
+def Del_first(self):
+    if self is None:
+        print('error0')
+        Return
+        if self.head.next is None:
+            Del self . head 
+            self.head=None
+            Return
+            c=self.head
+            self.head=c.next
+            del c 
+            if self.head:
+                self.head.back=None

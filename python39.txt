@@ -1,0 +1,17 @@
+def Del-last(self):
+if self.head is None:
+print(error0)
+return
+if self.head.next is None:
+self.Del-First()
+return 
+c=self.head
+while c.next:
+c=c.next
+c.next=None
+if c.Data==x
+a=c.next
+del a 
+return
+c=c.next 
+print('not found')

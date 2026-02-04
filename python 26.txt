@@ -1,0 +1,19 @@
+def Del_all(self):
+    while self.head:
+        self.Del_first()
+        def Del_x(self,x):
+            if self.head is None:
+                print('error 0')
+                Return
+            if self.head.data==x
+            self.data_first()
+            Return
+        c=self.head
+        while c.next:
+           if c.next.next.Data==x:
+               a=c.next
+               c.next=a.next
+               del a
+               Return
+               c=c.next
+               print('not found')

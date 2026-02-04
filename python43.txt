@@ -1,0 +1,12 @@
+def Del-x(self,x):
+if self . head is None:
+print('error0')
+return
+if self.head.Data==x:
+self . Deta-First()
+return
+c=self.head 
+whilec.next:
+iF c.next.Data==x:
+a=c.next
+print('not found')

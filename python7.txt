@@ -1,0 +1,17 @@
+claasQueue
+def__init__(self,max=100)
+self.last=[None]*max
+self.Front=-1
+self.rear=-1
+definsert(selF,x):
+ifselF .rear>=len(selF.list)-1
+print('Queu is Full')
+return 
+iFFront==-1
+selF.Front+=1
+selF.rear+=1
+self.list[selF.rear]=x
+return
+selF.rear+=1
+selF.list[selF.rear]=x
+
