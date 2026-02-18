@@ -1,3 +1,0 @@
-class d linked_list:
-def__init__(self):
-self.head=None
