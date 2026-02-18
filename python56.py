@@ -5,7 +5,7 @@ def Del_x(self,x):
     if self.head.Data==x
     self.Del.First()
     return 
-c=self.head 
+     c=self.head 
 while c:
     if c.next is None:
         self.Del_last()
@@ -14,5 +14,5 @@ while c:
     c.next.back=c.back
     del c
     Return
-c=c.next 
+   c=c.next 
 print('not found')
