@@ -1,8 +1,0 @@
-def Del_last(self):
-    if self.head is None:
-        self.Del_First()
-        return
-    c=self.head
-    while c.next:
-        c=c.next
-        c.next=none 
