@@ -1,3 +1,0 @@
-class dlinked_list:
-    def__init__(self):
-    self.head=None
