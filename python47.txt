@@ -1,7 +1,0 @@
-class dlinked_list:
-    def__init__(self):
-    self.head=None
-    a=dnode(x)
-    a.next=self.head
-    self.head=a
-    a.next.back=a
