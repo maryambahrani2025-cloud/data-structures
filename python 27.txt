@@ -1,4 +1,0 @@
-class node:
-def__init__(self,x):
-self.Data=x
-self.next=None
