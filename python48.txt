@@ -1,9 +1,9 @@
 def ins_last(self,x):
     if self.head is None:
-        self.ins_First(x)
-        return
-    c=self.head
+       self.ins_First(x)
+      return
+       c=self.head
     while c.next
-    a=dnode(x)
-    c.next=a
-    a.back=c
+     a=dnode(x)
+     c.next=a
+     a.back=c
