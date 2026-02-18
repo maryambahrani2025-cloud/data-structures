@@ -1,8 +1,0 @@
-def ins_First(self,x):
-if self.head is None:
-self.head=d node(x)
-return
-a=d node(x)
-a.next=self.head
-self.head=a
-a.next.back=a
