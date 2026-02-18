@@ -1,5 +1,0 @@
-test=stack(10)
-test.push(23)
-test.push(110)
-test.push(57)
-test.pop(57)
