@@ -1,6 +1,0 @@
-class Node():
- def__init__(self,x):
-self.next=None
-self.Data=x
-self.back=None
-     
