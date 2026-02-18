@@ -1,9 +1,0 @@
-def Del(selF):
- iFSelf.Front==-1
-print('Queue is empty')
-Return
-iFSelf.Front==Self.rear
-k=Self.list[Self.Front]
-Self.Front=-1
-Self.rear=-1
-Return:K
