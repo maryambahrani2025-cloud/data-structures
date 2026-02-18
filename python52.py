@@ -6,8 +6,8 @@ def Del_first(self):
         c=self.head
         self.head=c.next 
         del c 
-        if self.head:
-            self.head.back=None
+    if self.head:
+        self.head.back=None
         del self.head
         self.head=None
         return
